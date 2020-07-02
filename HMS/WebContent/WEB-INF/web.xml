@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://xmlns.jcp.org/xml/ns/javaee" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd" id="WebApp_ID" version="3.1">
+  <display-name>HMS</display-name>
+  <welcome-file-list>
+    <welcome-file>Login.html</welcome-file>
+  </welcome-file-list>
+  
+  <servlet>
+  	<description></description>
+  	<display-name>LoginController</display-name>
+  	<servlet-name>LoginController</servlet-name>
+  	<servlet-class>com.hms.controller.LoginController</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  	<servlet-name>LoginController</servlet-name>
+  	<url-pattern>/LoginController</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+  	<description></description>
+  	<display-name>PatientController</display-name>
+  	<servlet-name>PatientController</servlet-name>
+  	<servlet-class>com.hms.controller.PatientController</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  	<servlet-name>PatientController</servlet-name>
+  	<url-pattern>/PatientController</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+  	<description></description>
+  	<display-name>MedicineController</display-name>
+  	<servlet-name>MedicineController</servlet-name>
+  	<servlet-class>com.hms.controller.MedicineController</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  	<servlet-name>MedicineController</servlet-name>
+  	<url-pattern>/MedicineController</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+  	<description></description>
+  	<display-name>DiagnosisController</display-name>
+  	<servlet-name>DiagnosisController</servlet-name>
+  	<servlet-class>com.hms.controller.DiagnosisController</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  	<servlet-name>DiagnosisController</servlet-name>
+  	<url-pattern>/DiagnosisController</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+  	<description></description>
+  	<display-name>BillingController</display-name>
+  	<servlet-name>BillingController</servlet-name>
+  	<servlet-class>com.hms.controller.BillingController</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  	<servlet-name>BillingController</servlet-name>
+  	<url-pattern>/BillingController</url-pattern>
+  </servlet-mapping>
+  
+</web-app>

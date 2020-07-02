@@ -1,0 +1,143 @@
+INFO    2020-07-02 23:26:54,740 com.hms.controller.LoginController - Inside doPost method of Login Controller
+DEBUG   2020-07-02 23:26:54,743 com.hms.controller.LoginController - User with Credentials:- User Name: kevin_ade and Password: 1234 is logging in into HMS
+DEBUG   2020-07-02 23:26:55,560 com.hms.controller.LoginController - Login Successful
+DEBUG   2020-07-02 23:26:55,560 com.hms.controller.LoginController - User is Admission Desk Excutive
+INFO    2020-07-02 23:26:55,561 com.hms.controller.PatientController - Inside doPost method of Patient Controller
+DEBUG   2020-07-02 23:26:55,565 com.hms.controller.PatientController - View Patient List
+INFO    2020-07-02 23:28:33,132 com.hms.controller.LoginController - Inside doPost method of Login Controller
+DEBUG   2020-07-02 23:28:33,174 com.hms.controller.LoginController - User with Credentials:- User Name: kevin_ade and Password: 1234 is logging in into HMS
+DEBUG   2020-07-02 23:28:33,616 com.hms.controller.LoginController - Login Successful
+DEBUG   2020-07-02 23:28:33,616 com.hms.controller.LoginController - User is Admission Desk Excutive
+INFO    2020-07-02 23:28:33,617 com.hms.controller.PatientController - Inside doPost method of Patient Controller
+DEBUG   2020-07-02 23:28:33,617 com.hms.controller.PatientController - View Patient List
+INFO    2020-07-02 23:29:21,630 com.hms.controller.PatientController - Inside doPost method of Patient Controller
+INFO    2020-07-02 23:29:21,630 com.hms.controller.PatientController - Creating Patient
+DEBUG   2020-07-02 23:29:22,066 com.hms.controller.PatientController - Patient Created Successfully
+INFO    2020-07-02 23:29:24,889 com.hms.controller.PatientController - Inside doGet method of Patient Controller
+INFO    2020-07-02 23:29:24,889 com.hms.controller.PatientController - Inside doPost method of Patient Controller
+DEBUG   2020-07-02 23:29:24,890 com.hms.controller.PatientController - View Patient List
+INFO    2020-07-02 23:29:33,124 com.hms.controller.PatientController - Inside doPost method of Patient Controller
+INFO    2020-07-02 23:29:33,124 com.hms.controller.PatientController - Searching Patient
+DEBUG   2020-07-02 23:29:33,124 com.hms.controller.PatientController - Patient ID = 100000000
+INFO    2020-07-02 23:29:38,562 com.hms.controller.PatientController - Inside doPost method of Patient Controller
+INFO    2020-07-02 23:29:38,562 com.hms.controller.PatientController - Updating Patient with ID = 100000000
+INFO    2020-07-02 23:29:49,086 com.hms.controller.LoginController - Inside doPost method of Login Controller
+DEBUG   2020-07-02 23:29:49,086 com.hms.controller.LoginController - User with Credentials:- User Name: kevin_ph and Password: 1234 is logging in into HMS
+DEBUG   2020-07-02 23:29:49,126 com.hms.controller.LoginController - Login Successful
+DEBUG   2020-07-02 23:29:49,126 com.hms.controller.LoginController - User is Pharmacist
+INFO    2020-07-02 23:29:51,711 com.hms.controller.MedicineController - Inside doPost method of Medicine Controller
+INFO    2020-07-02 23:29:51,714 com.hms.controller.MedicineController - Searching Patient for adding medicine
+DEBUG   2020-07-02 23:29:51,714 com.hms.controller.MedicineController - Patient ID = 100000000
+INFO    2020-07-02 23:29:53,668 com.hms.controller.MedicineController - Inside doPost method of Medicine Controller
+INFO    2020-07-02 23:29:53,668 com.hms.controller.MedicineController - Adding Medicine for Patient ID = 100000000
+INFO    2020-07-02 23:30:07,027 com.hms.controller.MedicineController - Inside doPost method of Medicine Controller
+DEBUG   2020-07-02 23:30:07,465 com.hms.controller.MedicineController - Medicine Added Successfully
+INFO    2020-07-02 23:30:11,446 com.hms.controller.MedicineController - Inside doPost method of Medicine Controller
+INFO    2020-07-02 23:30:11,446 com.hms.controller.MedicineController - Searching Patient for adding medicine
+DEBUG   2020-07-02 23:30:11,446 com.hms.controller.MedicineController - Patient ID = 100000000
+INFO    2020-07-02 23:30:14,920 com.hms.controller.MedicineController - Inside doPost method of Medicine Controller
+INFO    2020-07-02 23:30:14,921 com.hms.controller.MedicineController - Adding Medicine for Patient ID = 100000000
+INFO    2020-07-02 23:30:22,258 com.hms.controller.MedicineController - Inside doPost method of Medicine Controller
+DEBUG   2020-07-02 23:30:22,286 com.hms.controller.MedicineController - Medicine Added Successfully
+INFO    2020-07-02 23:30:26,344 com.hms.controller.MedicineController - Inside doPost method of Medicine Controller
+INFO    2020-07-02 23:30:26,345 com.hms.controller.MedicineController - Searching Patient for adding medicine
+DEBUG   2020-07-02 23:30:26,346 com.hms.controller.MedicineController - Patient ID = 100000000
+INFO    2020-07-02 23:30:37,772 com.hms.controller.LoginController - Inside doPost method of Login Controller
+DEBUG   2020-07-02 23:30:37,772 com.hms.controller.LoginController - User with Credentials:- User Name: kevin_dse and Password: 1234 is logging in into HMS
+DEBUG   2020-07-02 23:30:37,833 com.hms.controller.LoginController - Login Successful
+DEBUG   2020-07-02 23:30:37,834 com.hms.controller.LoginController - User is Diagnostic Service Executive
+INFO    2020-07-02 23:30:40,295 com.hms.controller.DiagnosisController - Inside doPost method of Diagnosis Controller
+INFO    2020-07-02 23:30:40,300 com.hms.controller.DiagnosisController - Searching Patient for adding diagnosis
+DEBUG   2020-07-02 23:30:40,300 com.hms.controller.DiagnosisController - Patient ID = 100000000
+INFO    2020-07-02 23:30:42,399 com.hms.controller.DiagnosisController - Inside doPost method of Diagnosis Controller
+INFO    2020-07-02 23:30:42,399 com.hms.controller.DiagnosisController - Adding Diagnosis for Patient ID = 100000000
+INFO    2020-07-02 23:30:48,569 com.hms.controller.DiagnosisController - Inside doPost method of Diagnosis Controller
+DEBUG   2020-07-02 23:30:48,676 com.hms.controller.DiagnosisController - Diagnosis Added Successfully
+INFO    2020-07-02 23:30:52,331 com.hms.controller.DiagnosisController - Inside doPost method of Diagnosis Controller
+INFO    2020-07-02 23:30:52,331 com.hms.controller.DiagnosisController - Searching Patient for adding diagnosis
+DEBUG   2020-07-02 23:30:52,331 com.hms.controller.DiagnosisController - Patient ID = 100000000
+INFO    2020-07-02 23:30:54,992 com.hms.controller.DiagnosisController - Inside doPost method of Diagnosis Controller
+INFO    2020-07-02 23:30:54,992 com.hms.controller.DiagnosisController - Adding Diagnosis for Patient ID = 100000000
+INFO    2020-07-02 23:30:56,847 com.hms.controller.DiagnosisController - Inside doPost method of Diagnosis Controller
+DEBUG   2020-07-02 23:30:56,847 com.hms.controller.DiagnosisController - No Diagnosis Added
+INFO    2020-07-02 23:31:00,458 com.hms.controller.DiagnosisController - Inside doPost method of Diagnosis Controller
+INFO    2020-07-02 23:31:00,459 com.hms.controller.DiagnosisController - Searching Patient for adding diagnosis
+DEBUG   2020-07-02 23:31:00,460 com.hms.controller.DiagnosisController - Patient ID = 100000000
+INFO    2020-07-02 23:31:16,489 com.hms.controller.LoginController - Inside doPost method of Login Controller
+DEBUG   2020-07-02 23:31:16,489 com.hms.controller.LoginController - User with Credentials:- User Name: kevin_ade and Password: 1234 is logging in into HMS
+DEBUG   2020-07-02 23:31:16,963 com.hms.controller.LoginController - Login Successful
+DEBUG   2020-07-02 23:31:16,963 com.hms.controller.LoginController - User is Admission Desk Excutive
+INFO    2020-07-02 23:31:16,964 com.hms.controller.PatientController - Inside doPost method of Patient Controller
+DEBUG   2020-07-02 23:31:16,964 com.hms.controller.PatientController - View Patient List
+INFO    2020-07-02 23:31:23,447 com.hms.controller.BillingController - Inside doPost method of Billing Controller
+INFO    2020-07-02 23:31:23,458 com.hms.controller.BillingController - Searching Patient for generating bill
+DEBUG   2020-07-02 23:31:23,458 com.hms.controller.BillingController - Patient ID = 100000000
+INFO    2020-07-02 23:31:35,377 com.hms.controller.BillingController - Inside doPost method of Billing Controller
+INFO    2020-07-02 23:31:35,378 com.hms.controller.BillingController - Generating Bill for Patient Id = 100000000
+DEBUG   2020-07-02 23:31:35,422 com.hms.controller.BillingController - Bill generated Successfully
+INFO    2020-07-02 23:31:36,680 com.hms.controller.PatientController - Inside doGet method of Patient Controller
+INFO    2020-07-02 23:31:36,680 com.hms.controller.PatientController - Inside doPost method of Patient Controller
+DEBUG   2020-07-02 23:31:36,680 com.hms.controller.PatientController - View Patient List
+INFO    2020-07-02 23:40:13,766 com.hms.controller.LoginController - Inside doPost method of Login Controller
+DEBUG   2020-07-02 23:40:13,766 com.hms.controller.LoginController - User with Credentials:- User Name: kevin_ade and Password: 1234 is logging in into HMS
+DEBUG   2020-07-02 23:40:14,133 com.hms.controller.LoginController - Login Successful
+DEBUG   2020-07-02 23:40:14,133 com.hms.controller.LoginController - User is Admission Desk Excutive
+INFO    2020-07-02 23:40:14,133 com.hms.controller.PatientController - Inside doPost method of Patient Controller
+DEBUG   2020-07-02 23:40:14,133 com.hms.controller.PatientController - View Patient List
+INFO    2020-07-02 23:40:23,368 com.hms.controller.PatientController - Inside doPost method of Patient Controller
+INFO    2020-07-02 23:40:23,368 com.hms.controller.PatientController - Searching Patient
+DEBUG   2020-07-02 23:40:23,368 com.hms.controller.PatientController - Patient ID = 100000000
+INFO    2020-07-02 23:40:35,527 com.hms.controller.PatientController - Inside doPost method of Patient Controller
+INFO    2020-07-02 23:40:35,527 com.hms.controller.PatientController - Updating Patient with ID = 100000000
+INFO    2020-07-02 23:40:44,951 com.hms.controller.BillingController - Inside doPost method of Billing Controller
+INFO    2020-07-02 23:40:44,951 com.hms.controller.BillingController - Searching Patient for generating bill
+DEBUG   2020-07-02 23:40:44,951 com.hms.controller.BillingController - Patient ID = 100000000
+INFO    2020-07-02 23:41:03,197 com.hms.controller.LoginController - Inside doPost method of Login Controller
+DEBUG   2020-07-02 23:41:03,197 com.hms.controller.LoginController - User with Credentials:- User Name: kevin_ph and Password: 1234 is logging in into HMS
+DEBUG   2020-07-02 23:41:03,708 com.hms.controller.LoginController - Login Successful
+DEBUG   2020-07-02 23:41:03,708 com.hms.controller.LoginController - User is Pharmacist
+INFO    2020-07-02 23:41:06,199 com.hms.controller.MedicineController - Inside doPost method of Medicine Controller
+INFO    2020-07-02 23:41:06,200 com.hms.controller.MedicineController - Searching Patient for adding medicine
+DEBUG   2020-07-02 23:41:06,200 com.hms.controller.MedicineController - Patient ID = 100000000
+INFO    2020-07-02 23:41:10,755 com.hms.controller.MedicineController - Inside doPost method of Medicine Controller
+INFO    2020-07-02 23:41:10,755 com.hms.controller.MedicineController - Adding Medicine for Patient ID = 100000000
+INFO    2020-07-02 23:41:38,991 com.hms.controller.LoginController - Inside doPost method of Login Controller
+DEBUG   2020-07-02 23:41:38,991 com.hms.controller.LoginController - User with Credentials:- User Name: kevin_dse and Password: 1234 is logging in into HMS
+DEBUG   2020-07-02 23:41:39,039 com.hms.controller.LoginController - Login Successful
+DEBUG   2020-07-02 23:41:39,039 com.hms.controller.LoginController - User is Diagnostic Service Executive
+INFO    2020-07-02 23:41:46,630 com.hms.controller.DiagnosisController - Inside doPost method of Diagnosis Controller
+INFO    2020-07-02 23:41:46,631 com.hms.controller.DiagnosisController - Searching Patient for adding diagnosis
+DEBUG   2020-07-02 23:41:46,631 com.hms.controller.DiagnosisController - Patient ID = 100000000
+INFO    2020-07-02 23:41:54,662 com.hms.controller.DiagnosisController - Inside doPost method of Diagnosis Controller
+INFO    2020-07-02 23:41:54,662 com.hms.controller.DiagnosisController - Adding Diagnosis for Patient ID = 100000000
+INFO    2020-07-02 23:47:14,461 com.hms.controller.LoginController - Inside doPost method of Login Controller
+DEBUG   2020-07-02 23:47:14,462 com.hms.controller.LoginController - User with Credentials:- User Name: kevin_dse and Password: 1234 is logging in into HMS
+DEBUG   2020-07-02 23:47:14,766 com.hms.controller.LoginController - Login Successful
+DEBUG   2020-07-02 23:47:14,766 com.hms.controller.LoginController - User is Diagnostic Service Executive
+INFO    2020-07-02 23:47:17,065 com.hms.controller.DiagnosisController - Inside doPost method of Diagnosis Controller
+INFO    2020-07-02 23:47:17,065 com.hms.controller.DiagnosisController - Searching Patient for adding diagnosis
+DEBUG   2020-07-02 23:47:17,065 com.hms.controller.DiagnosisController - Patient ID = 100000000
+INFO    2020-07-02 23:52:07,148 com.hms.controller.LoginController - Inside doPost method of Login Controller
+DEBUG   2020-07-02 23:52:07,148 com.hms.controller.LoginController - User with Credentials:- User Name: kevin_ade and Password: 1234 is logging in into HMS
+DEBUG   2020-07-02 23:52:07,478 com.hms.controller.LoginController - Login Successful
+DEBUG   2020-07-02 23:52:07,478 com.hms.controller.LoginController - User is Admission Desk Excutive
+INFO    2020-07-02 23:52:07,478 com.hms.controller.PatientController - Inside doPost method of Patient Controller
+DEBUG   2020-07-02 23:52:07,478 com.hms.controller.PatientController - View Patient List
+INFO    2020-07-03 00:20:40,558 com.hms.controller.LoginController - Inside doPost method of Login Controller
+DEBUG   2020-07-03 00:20:40,559 com.hms.controller.LoginController - User with Credentials:- User Name: kevin_dse and Password: 1234 is logging in into HMS
+DEBUG   2020-07-03 00:20:40,844 com.hms.controller.LoginController - Login Successful
+DEBUG   2020-07-03 00:20:40,845 com.hms.controller.LoginController - User is Diagnostic Service Executive
+INFO    2020-07-03 00:20:43,118 com.hms.controller.DiagnosisController - Inside doPost method of Diagnosis Controller
+INFO    2020-07-03 00:20:43,118 com.hms.controller.DiagnosisController - Searching Patient for adding diagnosis
+DEBUG   2020-07-03 00:20:43,118 com.hms.controller.DiagnosisController - Patient ID = 100000000
+INFO    2020-07-03 00:20:44,418 com.hms.controller.DiagnosisController - Inside doPost method of Diagnosis Controller
+INFO    2020-07-03 00:20:44,418 com.hms.controller.DiagnosisController - Adding Diagnosis for Patient ID = 100000000
+INFO    2020-07-03 00:23:03,928 com.hms.controller.LoginController - Inside doPost method of Login Controller
+DEBUG   2020-07-03 00:23:03,929 com.hms.controller.LoginController - User with Credentials:- User Name: kevin_ade and Password: 1234 is logging in into HMS
+DEBUG   2020-07-03 00:23:04,379 com.hms.controller.LoginController - Login Successful
+DEBUG   2020-07-03 00:23:04,380 com.hms.controller.LoginController - User is Admission Desk Excutive
+INFO    2020-07-03 00:23:04,380 com.hms.controller.PatientController - Inside doPost method of Patient Controller
+DEBUG   2020-07-03 00:23:04,380 com.hms.controller.PatientController - View Patient List
+INFO    2020-07-03 00:23:07,850 com.hms.controller.BillingController - Inside doPost method of Billing Controller
+INFO    2020-07-03 00:23:07,850 com.hms.controller.BillingController - Searching Patient for generating bill
+DEBUG   2020-07-03 00:23:07,850 com.hms.controller.BillingController - Patient ID = 100000000
