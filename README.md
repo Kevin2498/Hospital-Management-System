@@ -4,7 +4,7 @@ Hospital management System is one of the most widely used application management
 
 ## Stakeholders
 
-Registration/Admission desk executive
+Registration/Admission desk executive<br/>
 • Create, Update, Delete Patient
 • View Patient details
 • Billing details of the Patient/Raise the bill for all the services rendered to the Patient
