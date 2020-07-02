@@ -5,3 +5,7 @@ Hospital management System is one of the most widely used application management
 Login Page
 
 ![Login Page](https://github.com/Kevin2498/Hospital-Management-System/blob/master/login.png)
+
+View Patients
+
+![View Patient](https://github.com/Kevin2498/Hospital-Management-System/blob/master/Screenshot%20(57).png)
