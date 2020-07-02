@@ -5,19 +5,19 @@ Hospital management System is one of the most widely used application management
 ## Stakeholders
 
 Registration/Admission desk executive<br/>
-• Create, Update, Delete Patient
-• View Patient details
-• Billing details of the Patient/Raise the bill for all the services rendered to the Patient
+• Create, Update, Delete Patient<br/>
+• View Patient details<br/>
+• Billing details of the Patient/Raise the bill for all the services rendered to the Patient<br/>
 
-Pharmacist
-• Manage medicines issued to the patients. Which include the following tasks
-• Get Patient details along with the data of the previous medicines issued (if any)
-• Issue the new medicines to the patient
+Pharmacist<br/>
+• Manage medicines issued to the patients. Which include the following tasks<br/>
+• Get Patient details along with the data of the previous medicines issued (if any)<br/>
+• Issue the new medicines to the patient<br/>
 
-Diagnostic services executive
-• Manage the diagnostic services rendered to the Patient. Which include the following tasks
-• Get Patient details along with the previous diagnostics(tests) conducted (if any)
-• Add the new diagnostics(tests) conducted to the patient
+Diagnostic services executive<br/>
+• Manage the diagnostic services rendered to the Patient. Which include the following tasks<br/>
+• Get Patient details along with the previous diagnostics(tests) conducted (if any)<br/>
+• Add the new diagnostics(tests) conducted to the patient<br/>
 
 ## Login Page
 
